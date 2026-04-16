@@ -1,0 +1,16 @@
+# outputs
+outputs/
+test_images/
+
+# env
+rag/.env
+
+# IDE files
+.idea
+.DS_Store
+
+# pycache
+__pycache__/
+ *.py[cod]
+
+
